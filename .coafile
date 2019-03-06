@@ -1,0 +1,25 @@
+[all]
+files = *.md
+max_line_length = 80
+use_spaces = True
+
+[all.linelength]
+bears = LineLengthBear
+ignore_length_regex = ^.*https?://
+
+[all.LineCounting]
+bears = LineCountBear
+max_lines_per_file = 1000
+
+[all.yml]
+bears = YAMLLintBear
+files = *.yml
+
+[all.invalidlinks]
+bears = InvalidLinkBear
+
+[all.text]
+bears = SpaceConsistencyBear
+
+[all.markdown]
+bears = MarkdownBear

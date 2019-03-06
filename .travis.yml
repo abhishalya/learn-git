@@ -1,0 +1,20 @@
+language: python
+python:
+ - 3.6
+
+sudo: required
+
+cache: pip
+
+before_script:
+ - pip install git+https://github.com/coala/coala
+ - pip install git+https://github.com/coala/coala-bears
+ - npm install -g remark-cli
+ - npm install -g remark-lint
+ - npm install -g remark-validate-links
+
+script:
+ - coala --non-interactive -V
+
+notifications:
+ email: false
