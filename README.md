@@ -1,6 +1,6 @@
 # Learn git
 
-[![Travis Build][travis-logo]][travis-build]
+[![Build Status][travis-logo]][travis-build]
 
 Since we heavily rely on git, we need to learn and understand each and every
 command & features of the git. This repo is specially meant for me and everyone
@@ -15,6 +15,6 @@ of git.
 
 So, get started now! :tada:
 
-[travis-logo]: https://img.shields.io/travis/abhishalya/learn-git.svg
+[travis-logo]: https://travis-ci.org/abhishalya/learn-git.svg?branch=master
 
-[travis-build]: https://travis-ci.org/abhishalya/learn-git/
+[travis-build]: https://travis-ci.org/abhishalya/learn-git
