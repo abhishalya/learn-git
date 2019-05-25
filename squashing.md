@@ -91,3 +91,5 @@ This was my first article on squashing commits. I have written it very fastly,
 so there may be some grammatical/spelling errors. But I hope you understood it.
 If you find any issues feel free to create issues, or make a PR and I will be
 happy to merge them. :smile:
+
+In case of any doubts contact me on abhinavkaushlya@gmail.com
