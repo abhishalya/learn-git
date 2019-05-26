@@ -18,3 +18,7 @@ So, get started now! :tada:
 [travis-logo]: https://travis-ci.org/abhishalya/learn-git.svg?branch=master
 
 [travis-build]: https://travis-ci.org/abhishalya/learn-git
+
+This is a part of commit-1 and now I just changed it.
+
+This is a part of commit-2.
